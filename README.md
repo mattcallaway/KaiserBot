@@ -1,4 +1,4 @@
-# KelloggBot
+# KaiserBot
 [Setup](#setup)\
 [Usage](#usage)
 
