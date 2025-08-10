@@ -33,7 +33,7 @@ this just tells the OS it's safe to use this driver, and Selenium will start wor
 
 # Usage
 ```
-usage: A script to automate very legitimate applications to kellogg's production plants affected by union strikes
+usage: A script to automate very legitimate applications to kaiser's production plants affected by union strikes
        python3 main.py [-h] [--debug] [--mailtm]
 
 options:
